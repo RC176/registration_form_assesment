@@ -1,0 +1,10 @@
+.container {
+    margin: 20px auto;
+    width: 900px;
+    border-radius: 20px;
+    padding: 10px 10px 30px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 /20%), 0 6px 20px 0 rgb(0 0 0 /19%);
+}
+.submit-btn, .heading {
+    text-align: center;
+}
